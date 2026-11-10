@@ -1,0 +1,335 @@
+[
+  {
+    "file": "src/code/03_rerun_single_cell_atlas.py",
+    "upstream_file": "code/03_rerun_single_cell_atlas.py",
+    "upstream_sha256": "5de3e36560c5e0400e0fbc2100582dc7f51fd68c6e78a851d048110b674f0844",
+    "portability_changes": [
+      "Replace personal path defaults with external workspace-relative paths."
+    ]
+  },
+  {
+    "file": "src/code/04_recompute_count_based_de.R",
+    "upstream_file": "code/04_recompute_count_based_de.R",
+    "upstream_sha256": "d37fa1e39a253c0c9031aec8298466430e5a3aeeac5b6da2592777d0fd1d4527",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/05_single_cell_tissue_mechanism_statistics.py",
+    "upstream_file": "code/05_single_cell_tissue_mechanism_statistics.py",
+    "upstream_sha256": "638dab8ed68270170af39f5978e658c771b0bc35434c648d9bedf654b8864acb",
+    "portability_changes": [
+      "Default to installed external workspace root."
+    ]
+  },
+  {
+    "file": "src/code/06_microbiome_metabolome_statistics.py",
+    "upstream_file": "code/06_microbiome_metabolome_statistics.py",
+    "upstream_sha256": "77d00cc95c646971d90a36216032a12acc89609e351d1ee4e3438ff08f0b71b9",
+    "portability_changes": [
+      "Default to installed external workspace root."
+    ]
+  },
+  {
+    "file": "src/code/07_cross_sectional_endotype_model.py",
+    "upstream_file": "code/07_cross_sectional_endotype_model.py",
+    "upstream_sha256": "c29ae96174762051e84e092ae80848b88d31c26a3d5187cd4f448b71f256aa2b",
+    "portability_changes": [
+      "Default to installed external workspace root."
+    ]
+  },
+  {
+    "file": "src/code/adjusted_edger.R",
+    "upstream_file": "code/adjusted_edger.R",
+    "upstream_sha256": "564b12a5aeb27e41b133ecec90f7f22ffe785f69b70747bc6e2b7f7fa252fc89",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/analyze_revision.py",
+    "upstream_file": "code/analyze_revision.py",
+    "upstream_sha256": "6ee2c27ccc177badea619d0bff712c032f718105415fc6171e4e177d33b86888",
+    "portability_changes": [
+      "Resolve reference inputs and LIANA receptor universe inside external workspace."
+    ]
+  },
+  {
+    "file": "src/code/confident_cell_sensitivity.py",
+    "upstream_file": "code/confident_cell_sensitivity.py",
+    "upstream_sha256": "fbafe4c836f0c6b1fbecd752353c4c7d20abdecbe6c4a190de46e924ce4bf2e8",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/export_annotation_sensitivity.py",
+    "upstream_file": "code/export_annotation_sensitivity.py",
+    "upstream_sha256": "ed1313edacda51f537c2454b27bed6e31f68a962245538883c73387335f40f3d",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/export_display_logcpm.py",
+    "upstream_file": "code/export_display_logcpm.py",
+    "upstream_sha256": "2c8928acd749d3ad523e59586aa8f92bc889c6fb297758422ca79b81d850eb35",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/export_donor_expression.R",
+    "upstream_file": "code/export_donor_expression.R",
+    "upstream_sha256": "ba03527e0ad0fba54baa4db6c1e6750a6c20f615fdf834f0bf92715f27071aca",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/export_pseudobulk.py",
+    "upstream_file": "code/export_pseudobulk.py",
+    "upstream_sha256": "a7ac4e96337dbe30af141a788aed90a5640e6025e79fa1ca65080dd1e1055178",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/gene7_adjusted.py",
+    "upstream_file": "code/gene7_adjusted.py",
+    "upstream_sha256": "3435b55377c6f7d1a1f6c97e50d2fff312dc6ed92e9e0ceef574d081be264ebb",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/infer_saved_scanvi.py",
+    "upstream_file": "code/infer_saved_scanvi.py",
+    "upstream_sha256": "9439ff294ed1881c5e48cc8eb1e6fa06b4772a915e443cbb67c47e56712ceeb5",
+    "portability_changes": [
+      "Use the same model directory as included reference training code."
+    ]
+  },
+  {
+    "file": "src/code/legacy_runner.py",
+    "upstream_file": "code/legacy_runner.py",
+    "upstream_sha256": "168c045da157e0875657543fbd0cd6b984f188376e085cbfc857dd5ed1f151ea",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/primary_model_diagnostics.py",
+    "upstream_file": "code/primary_model_diagnostics.py",
+    "upstream_sha256": "fb3863248584e8beb53dcab378591baa27c7c38c7bdfa3d7ad9ed12f6fb0d557",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/programme_sensitivity.py",
+    "upstream_file": "code/programme_sensitivity.py",
+    "upstream_sha256": "62bd6fe25d6ccef1a4dd763cc1def4955db80710354e4b24f9871890f4a2b47f",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/revision_stats.py",
+    "upstream_file": "code/revision_stats.py",
+    "upstream_sha256": "14cb2de0f6abad89bc3eba287e9965ec436f81af92204762531e4544eb479442",
+    "portability_changes": []
+  },
+  {
+    "file": "src/code/weighted_endothelial_sensitivity.py",
+    "upstream_file": "code/weighted_endothelial_sensitivity.py",
+    "upstream_sha256": "f417d961f52faeca782d3afd0f133493d5ddf9536044d8e50090d84f24d02aaf",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/01_scope_nec.py",
+    "upstream_file": "legacy_analysis/code/01_scope_nec.py",
+    "upstream_sha256": "65dd31f0dad269c29ca49e667148db46902d34b4f8b1262be9b565c86437c0a4",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/04_extract_wandro_author_objects.R",
+    "upstream_file": "legacy_analysis/code/04_extract_wandro_author_objects.R",
+    "upstream_sha256": "cc25ad97e122b1976f3d44db3cae42fa92c505953c8a3f4c78042368a87d0a7b",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/05_tempo_nec.py",
+    "upstream_file": "legacy_analysis/code/05_tempo_nec.py",
+    "upstream_sha256": "56eca96553523626e8b559e21ae4fe69d2043350bf77b82494586c56c76afdd5",
+    "portability_changes": [
+      "Use Rscript from PATH or NEC_RSCRIPT."
+    ]
+  },
+  {
+    "file": "src/legacy_analysis/code/15_prepare_eclipse_bins.py",
+    "upstream_file": "legacy_analysis/code/15_prepare_eclipse_bins.py",
+    "upstream_sha256": "28982a9579831c0b5a91f31720f7456ca63ef7e9f0b4ab2acb6d257e272e984d",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/16_eclipse_nec.py",
+    "upstream_file": "legacy_analysis/code/16_eclipse_nec.py",
+    "upstream_sha256": "2b1894277c04ab912860548daae6c601c036b611ba39bd3ccb2eb27afa299747",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/18_coder_nec_deconvolution.py",
+    "upstream_file": "legacy_analysis/code/18_coder_nec_deconvolution.py",
+    "upstream_sha256": "f8bbbdcb794e70787c071b38dd29fdf8f82df05bb15bc88242366a67638f99f3",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/24_recompute_eclipse_empirical.py",
+    "upstream_file": "legacy_analysis/code/24_recompute_eclipse_empirical.py",
+    "upstream_sha256": "365df868f4737d37783884f56aa3f3ae7caaf0c574ae5c431427bf71f95a03ce",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/25_eclipse_stool_covariate_adjustment.py",
+    "upstream_file": "legacy_analysis/code/25_eclipse_stool_covariate_adjustment.py",
+    "upstream_sha256": "5e44ea9d08e0228b15caf3ac7f12cb6c2bd22c4ccbe816ac229a9c7612f4cd4d",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/26_eclipse_promoter_signal_collapse.py",
+    "upstream_file": "legacy_analysis/code/26_eclipse_promoter_signal_collapse.py",
+    "upstream_sha256": "7ea92b6026ef9b5302fb65bc758982546376a04bfcae95732b529376243d6cc0",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/27_plot_eclipse_nec.py",
+    "upstream_file": "legacy_analysis/code/27_plot_eclipse_nec.py",
+    "upstream_sha256": "8240c426d97fd6991d727be32ce234bcdc12879c8e2c06dc995794efc4c54789",
+    "portability_changes": [
+      "Discover installed Liberation Sans through matplotlib font manager; remove hard-coded Windows font paths."
+    ]
+  },
+  {
+    "file": "src/legacy_analysis/code/40_story_chain_common.py",
+    "upstream_file": "legacy_analysis/code/40_story_chain_common.py",
+    "upstream_sha256": "8bd8caba9bb3ed93fab5dc03e3e2e2ff814c3d7d7687ba5bb4a180a254fbd022",
+    "portability_changes": [
+      "Keep all work paths within the external workspace."
+    ]
+  },
+  {
+    "file": "src/legacy_analysis/code/41_specific_nec.py",
+    "upstream_file": "legacy_analysis/code/41_specific_nec.py",
+    "upstream_sha256": "f474723dd660f29b41e1a2cab74abf86d5bbd1987ac6fb5ca7867cfb37ba0d3b",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/42_uplift_nec.py",
+    "upstream_file": "legacy_analysis/code/42_uplift_nec.py",
+    "upstream_sha256": "35e521a6efe6d1741d8f1fe2dafdd9bf3d121f2d91b3efb785780e4c55022df6",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/43_state_resolve.R",
+    "upstream_file": "legacy_analysis/code/43_state_resolve.R",
+    "upstream_sha256": "bb8c8bff460deb5ee108908e379b0503dd39d3fad49202067a98799c3135a77c",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/44_bridge_nec.py",
+    "upstream_file": "legacy_analysis/code/44_bridge_nec.py",
+    "upstream_sha256": "49f91ec4e62f9e1fbf539b5b9b2e43075f468fad9c1ce186749d02d500f34f2f",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/45_gate_ot.py",
+    "upstream_file": "legacy_analysis/code/45_gate_ot.py",
+    "upstream_sha256": "9989ec868542de1081087824f5c74f8cd31a93a7f9fe074712e90b7098d527b8",
+    "portability_changes": []
+  },
+  {
+    "file": "src/plot_code/prepare_figure_inputs.py",
+    "upstream_file": "plot_code/prepare_figure_inputs.py",
+    "upstream_sha256": "07d47db04b4034cf3ccf24889b17f06d5891d278eb88e3f365dee139e869da78",
+    "portability_changes": [
+      "Derive native vascular marker display rows directly from the complete normalized donor expression output; equality checked against the previous display table."
+    ]
+  },
+  {
+    "file": "src/plot_code/render_revision_figures.py",
+    "upstream_file": "plot_code/render_revision_figures.py",
+    "upstream_sha256": "8c9fd4dc86bb279cebfbc476d64fa79fa57acfaf7dca5f9ac21b3a4f87f7398e",
+    "portability_changes": []
+  },
+  {
+    "file": "src/plot_code/render_supplementary2.py",
+    "upstream_file": "plot_code/render_supplementary2.py",
+    "upstream_sha256": "ee2dcebec96c8ee54e71fb5e96b54c4773c0c65485214b34dcf4d5651eeb0cb4",
+    "portability_changes": []
+  },
+  {
+    "file": "src/plot_code/render_supplementary3.py",
+    "upstream_file": "plot_code/render_supplementary3.py",
+    "upstream_sha256": "b7f2c444424b507396a5150127f4f9579fb7266d325b46dcc2071950e206236a",
+    "portability_changes": []
+  },
+  {
+    "file": "src/plot_code/render_supplementary8.py",
+    "upstream_file": "plot_code/render_supplementary8.py",
+    "upstream_sha256": "6be4a4a9a3f97a6494d2f8fa62344e20570f99c91429f6eda56501005465edd9",
+    "portability_changes": []
+  },
+  {
+    "file": "src/plot_code/render_supplementary10.py",
+    "upstream_file": "plot_code/render_supplementary10.py",
+    "upstream_sha256": "77c621eec7639590c56326cfa925a52a55fde51d31f406488801a1e5cb9ca59d",
+    "portability_changes": []
+  },
+  {
+    "file": "src/legacy_analysis/code/08_download_drcmap_references.py",
+    "upstream_file": "analysis_revision/code/08_download_drcmap_references.py",
+    "upstream_sha256": "a729586336f0874e850ecfcbb07ec98c38e37605894c20d9ba9666c373d56b36",
+    "portability_changes": [
+      "Resolve reference preprocessing paths within external workspace."
+    ]
+  },
+  {
+    "file": "src/legacy_analysis/code/09_prepare_drcmap.py",
+    "upstream_file": "analysis_revision/code/09_prepare_drcmap.py",
+    "upstream_sha256": "405acbe09aa108e7a189003af340655cec0b5cb4917555add5fce9b9929dcbed",
+    "portability_changes": [
+      "Resolve reference preprocessing paths within external workspace."
+    ]
+  },
+  {
+    "file": "src/legacy_analysis/code/10_run_drcmap.py",
+    "upstream_file": "analysis_revision/code/10_run_drcmap.py",
+    "upstream_sha256": "00132c8448d319adcc016695a4c6c09a2383266869f7ac20f68fcc8c5bd7d0f6",
+    "portability_changes": [
+      "Resolve reference preprocessing paths within external workspace."
+    ]
+  },
+  {
+    "file": "src/legacy_analysis/code/14_download_eclipse_nec.py",
+    "upstream_file": "analysis_revision/code/14_download_eclipse_nec.py",
+    "upstream_sha256": "cbf87c1b52226919e393bf08e892724f4a198ee12a85e1b4e30277221498efe5",
+    "portability_changes": [
+      "Resolve reference preprocessing paths within external workspace."
+    ]
+  },
+  {
+    "file": "src/code/rerun_eclipse_full.py",
+    "upstream_file": "round2/rerun_eclipse_full.py",
+    "upstream_sha256": "cc7f7872a54235ed717eeed134063122600e0539a777f8e5793055e54437b107",
+    "portability_changes": [
+      "Record completed status only after all cohort models and downstream stages finish."
+    ]
+  },
+  {
+    "file": "src/code/prepare_organoid_trends.py",
+    "upstream_file": "analysis_revision/code/22_fxr_ferroptosis_ilc3.py",
+    "portability_changes": [
+      "Extract only the original gene trend computation required for organoid transport; preserve grouping, transformation, rank and multiple-testing calculations."
+    ]
+  },
+  {
+    "file": "src/plot_code/prepare_supplementary1.py",
+    "upstream_file": "01_prepare_reviewer_revision_data.py",
+    "upstream_sha256": "d3688a32707126b29c01f40666c14ce6cb7d83fbb56fd88540349d417d5ebf31",
+    "portability_changes": [
+      "Explicit CLI input directories; original scientific panel definitions retained.",
+      "Current raw-rebuild UMAP and classifier confidence; separate held-out confusion.",
+      "Readability and publication layout updated with minimum 8 pt Liberation Sans."
+    ]
+  },
+  {
+    "file": "src/plot_code/render_supplementary1.py",
+    "upstream_file": "02_build_extended_data_figures.py",
+    "upstream_sha256": "b4db862647472f33fe6431f6300466e8f289bf6f460384fe1eafd90e8313146c",
+    "portability_changes": [
+      "Explicit CLI input directories; original scientific panel definitions retained.",
+      "Current raw-rebuild UMAP and classifier confidence; separate held-out confusion.",
+      "Readability and publication layout updated with minimum 8 pt Liberation Sans."
+    ]
+  }
+]

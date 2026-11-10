@@ -1,0 +1,310 @@
+{
+  "release_type": "code_and_documentation_only",
+  "files": [
+    {
+      "file": ".gitignore",
+      "bytes": 543,
+      "sha256": "22bf583d80ef0738ea3154439171f97b521fa3f2f3ef250d71921b9af82d15aa"
+    },
+    {
+      "file": "check_repository.py",
+      "bytes": 2315,
+      "sha256": "e3d1611c6e438d0c7d2ed1187a7d27487552f66b322ff73f34afc0be20887fe3"
+    },
+    {
+      "file": "docs/data_sources.md",
+      "bytes": 2829,
+      "sha256": "df2dbd76e0b4aa23fca18feed75ec550667cad124173e4da31d2aa840c20c616"
+    },
+    {
+      "file": "docs/input_contracts.md",
+      "bytes": 10421,
+      "sha256": "e879160693935c655fcb2fe5fb5d1bdbff6a38f50a3aa3ae8a48e70ee19c249a"
+    },
+    {
+      "file": "docs/source_provenance.json",
+      "bytes": 14437,
+      "sha256": "a9a141334152c65b06678b7465f5dad16d39b1105ad389656666f234265e2324"
+    },
+    {
+      "file": "environments/README.md",
+      "bytes": 2018,
+      "sha256": "82589699da068230a77f7be5dcbb7bec4db1eadc59c6563863c1a953a8c1edc4"
+    },
+    {
+      "file": "environments/requirements-native.txt",
+      "bytes": 216,
+      "sha256": "480c16482f29bb776b78332d1315e360b853deaf8d31b01789534f66403a8702"
+    },
+    {
+      "file": "environments/requirements-raw.txt",
+      "bytes": 169,
+      "sha256": "9433347661a9f04b0a985553866908015acf94f83ca83020b38b49feaf7c77da"
+    },
+    {
+      "file": "environments/requirements-statistics.txt",
+      "bytes": 244,
+      "sha256": "7f4197c03095d9ead7c015be10f7d4464c37dc0ad79093695e1a17ee2523adf9"
+    },
+    {
+      "file": "environments/versions.md",
+      "bytes": 994,
+      "sha256": "4e6332ac5259548361a03ab97318d725415732016f2b573b840e3f4b7c110378"
+    },
+    {
+      "file": "README.md",
+      "bytes": 5937,
+      "sha256": "15d3df86dbee1fcb5e386aa7a7f7e4110985552c0075f559077f190d7534daf1"
+    },
+    {
+      "file": "run.py",
+      "bytes": 12075,
+      "sha256": "e0584a42bde0ea5ea9c4d4a2285e1f628e1e59e469eacaf60a036b2eedb11bac"
+    },
+    {
+      "file": "src/code/03_rerun_single_cell_atlas.py",
+      "bytes": 38384,
+      "sha256": "39a8a951c1daee297c650024818bb040e071379227370d665d4831b3bf2f6d4d"
+    },
+    {
+      "file": "src/code/04_recompute_count_based_de.R",
+      "bytes": 11380,
+      "sha256": "d37fa1e39a253c0c9031aec8298466430e5a3aeeac5b6da2592777d0fd1d4527"
+    },
+    {
+      "file": "src/code/05_single_cell_tissue_mechanism_statistics.py",
+      "bytes": 33244,
+      "sha256": "d2bd5d00a0483344f5bd7ba5c95f00fdaf668f21833b3fc104d5cd481c037aad"
+    },
+    {
+      "file": "src/code/06_microbiome_metabolome_statistics.py",
+      "bytes": 45312,
+      "sha256": "7a257241eb7e2ad43cd098320fc6905c70d1634f894bb6a4c9f488549391d147"
+    },
+    {
+      "file": "src/code/07_cross_sectional_endotype_model.py",
+      "bytes": 41367,
+      "sha256": "ba3fc2d7b58e32ff9c19f4d1a5e7c86b6766bf67fd733d38c3c601879b2b10a0"
+    },
+    {
+      "file": "src/code/adjusted_edger.R",
+      "bytes": 2513,
+      "sha256": "564b12a5aeb27e41b133ecec90f7f22ffe785f69b70747bc6e2b7f7fa252fc89"
+    },
+    {
+      "file": "src/code/analyze_revision.py",
+      "bytes": 17467,
+      "sha256": "d5c68bb42683433e698fd5c5b4bbd45bd4556b1ba98204c72ce5d20ee9b24ae2"
+    },
+    {
+      "file": "src/code/confident_cell_sensitivity.py",
+      "bytes": 3695,
+      "sha256": "fbafe4c836f0c6b1fbecd752353c4c7d20abdecbe6c4a190de46e924ce4bf2e8"
+    },
+    {
+      "file": "src/code/export_annotation_sensitivity.py",
+      "bytes": 2213,
+      "sha256": "ed1313edacda51f537c2454b27bed6e31f68a962245538883c73387335f40f3d"
+    },
+    {
+      "file": "src/code/export_display_logcpm.py",
+      "bytes": 1372,
+      "sha256": "2c8928acd749d3ad523e59586aa8f92bc889c6fb297758422ca79b81d850eb35"
+    },
+    {
+      "file": "src/code/export_donor_expression.R",
+      "bytes": 2776,
+      "sha256": "ba03527e0ad0fba54baa4db6c1e6750a6c20f615fdf834f0bf92715f27071aca"
+    },
+    {
+      "file": "src/code/export_pseudobulk.py",
+      "bytes": 1316,
+      "sha256": "a7ac4e96337dbe30af141a788aed90a5640e6025e79fa1ca65080dd1e1055178"
+    },
+    {
+      "file": "src/code/gene7_adjusted.py",
+      "bytes": 2531,
+      "sha256": "3435b55377c6f7d1a1f6c97e50d2fff312dc6ed92e9e0ceef574d081be264ebb"
+    },
+    {
+      "file": "src/code/infer_saved_scanvi.py",
+      "bytes": 2395,
+      "sha256": "24bf27be0e4dd28f0f4c5c63618da04b4797db1ac3ba0ad2ebd52517fa993867"
+    },
+    {
+      "file": "src/code/legacy_runner.py",
+      "bytes": 511,
+      "sha256": "168c045da157e0875657543fbd0cd6b984f188376e085cbfc857dd5ed1f151ea"
+    },
+    {
+      "file": "src/code/prepare_organoid_trends.py",
+      "bytes": 2141,
+      "sha256": "1b523559f33b829e1dbfbadcb7e2e5550f3eacbef6530a7d6ea124b545f6c5eb"
+    },
+    {
+      "file": "src/code/primary_model_diagnostics.py",
+      "bytes": 1764,
+      "sha256": "fb3863248584e8beb53dcab378591baa27c7c38c7bdfa3d7ad9ed12f6fb0d557"
+    },
+    {
+      "file": "src/code/programme_sensitivity.py",
+      "bytes": 2354,
+      "sha256": "62bd6fe25d6ccef1a4dd763cc1def4955db80710354e4b24f9871890f4a2b47f"
+    },
+    {
+      "file": "src/code/rerun_eclipse_full.py",
+      "bytes": 3079,
+      "sha256": "e1468547c6f1e1039248d6fed57bedcc428b8626042553b5e88d628435d6610d"
+    },
+    {
+      "file": "src/code/revision_stats.py",
+      "bytes": 10177,
+      "sha256": "14cb2de0f6abad89bc3eba287e9965ec436f81af92204762531e4544eb479442"
+    },
+    {
+      "file": "src/code/weighted_endothelial_sensitivity.py",
+      "bytes": 2524,
+      "sha256": "f417d961f52faeca782d3afd0f133493d5ddf9536044d8e50090d84f24d02aaf"
+    },
+    {
+      "file": "src/legacy_analysis/code/01_scope_nec.py",
+      "bytes": 32530,
+      "sha256": "48c8c719bc17b2f9c11463bb1353eceb24ed4db74d0cce3da2c34eed1fb3ada3"
+    },
+    {
+      "file": "src/legacy_analysis/code/04_extract_wandro_author_objects.R",
+      "bytes": 1414,
+      "sha256": "f7023fae7e63329175547b93a366e2c1ec8e6bde2b5c6438efc960a8fd55cbcc"
+    },
+    {
+      "file": "src/legacy_analysis/code/05_tempo_nec.py",
+      "bytes": 59773,
+      "sha256": "ec8c0632695c89a05d96baf2eb599a68e0b8c99e825b315d1696ee28c9c6212b"
+    },
+    {
+      "file": "src/legacy_analysis/code/08_download_drcmap_references.py",
+      "bytes": 5604,
+      "sha256": "a729586336f0874e850ecfcbb07ec98c38e37605894c20d9ba9666c373d56b36"
+    },
+    {
+      "file": "src/legacy_analysis/code/09_prepare_drcmap.py",
+      "bytes": 20029,
+      "sha256": "bcc407ff218efb816b6bd6556bdfd1bf2b0025093652d4a6f4250c2978689529"
+    },
+    {
+      "file": "src/legacy_analysis/code/10_run_drcmap.py",
+      "bytes": 29319,
+      "sha256": "00132c8448d319adcc016695a4c6c09a2383266869f7ac20f68fcc8c5bd7d0f6"
+    },
+    {
+      "file": "src/legacy_analysis/code/14_download_eclipse_nec.py",
+      "bytes": 11523,
+      "sha256": "cbf87c1b52226919e393bf08e892724f4a198ee12a85e1b4e30277221498efe5"
+    },
+    {
+      "file": "src/legacy_analysis/code/15_prepare_eclipse_bins.py",
+      "bytes": 11614,
+      "sha256": "5650fb8f7c7938ef495fe1d8ac5a318bad0859ebfbfef877392f698a8e87ec96"
+    },
+    {
+      "file": "src/legacy_analysis/code/16_eclipse_nec.py",
+      "bytes": 37554,
+      "sha256": "4c9d2e8346a6605ad46a0c14bd320632a4d6db99d543131ff817b33093263ede"
+    },
+    {
+      "file": "src/legacy_analysis/code/18_coder_nec_deconvolution.py",
+      "bytes": 35091,
+      "sha256": "a04c4974b91bbd35581128263b004fbcf1a6d8a95081201a857c1af875b30391"
+    },
+    {
+      "file": "src/legacy_analysis/code/24_recompute_eclipse_empirical.py",
+      "bytes": 6839,
+      "sha256": "ead67c2eabd064779aee33ab33b09f72b242b78f47e5892c6ecc95e346c6a9f2"
+    },
+    {
+      "file": "src/legacy_analysis/code/25_eclipse_stool_covariate_adjustment.py",
+      "bytes": 23724,
+      "sha256": "d56f3b1ae9767067903a23e2112c97a3ce9f5002621ff30c6ecae1a3e06b39fe"
+    },
+    {
+      "file": "src/legacy_analysis/code/26_eclipse_promoter_signal_collapse.py",
+      "bytes": 8923,
+      "sha256": "79b75c9fc34a7d4e41439b079961b0eb71d81213c217edc8747769a1e0f8f8ce"
+    },
+    {
+      "file": "src/legacy_analysis/code/27_plot_eclipse_nec.py",
+      "bytes": 21415,
+      "sha256": "725b03a3f4d09387308f97ef315b99515510b91d11bbfa20183e6c0f5b4ef4e8"
+    },
+    {
+      "file": "src/legacy_analysis/code/40_story_chain_common.py",
+      "bytes": 8151,
+      "sha256": "e435485ff31432904d92e2b5e77089d0085c39eb3df6a52eda6c1065cc08a514"
+    },
+    {
+      "file": "src/legacy_analysis/code/41_specific_nec.py",
+      "bytes": 15418,
+      "sha256": "9d7602de9c90ec8bf78144b973c06d62c1182664dc502ddf98b467394f8e19cb"
+    },
+    {
+      "file": "src/legacy_analysis/code/42_uplift_nec.py",
+      "bytes": 25928,
+      "sha256": "0a083b26c64a8b853647cfd9eda252eb4b0da3eed2b673b1c914cb6fece371aa"
+    },
+    {
+      "file": "src/legacy_analysis/code/43_state_resolve.R",
+      "bytes": 11035,
+      "sha256": "a1bb5a3bff9a2660c8674338950c162a2b6c768a19665d5fa49baed86d8b7c58"
+    },
+    {
+      "file": "src/legacy_analysis/code/44_bridge_nec.py",
+      "bytes": 21727,
+      "sha256": "a904da565b1dfd715eb2ed66cef2e6bfec25c9d7444995639d0b88b7b85706e3"
+    },
+    {
+      "file": "src/legacy_analysis/code/45_gate_ot.py",
+      "bytes": 20521,
+      "sha256": "698e175dde7a3794d62f636db1b23568d53af43156ada36d1047bedb305ee704"
+    },
+    {
+      "file": "src/plot_code/prepare_figure_inputs.py",
+      "bytes": 6629,
+      "sha256": "f66a605105d2052ede1b579203fc9f811fb8d10288f975d60b6099a7480f86b9"
+    },
+    {
+      "file": "src/plot_code/prepare_supplementary1.py",
+      "bytes": 9448,
+      "sha256": "6121a06d0cda9009f8b9df6059dfdce56123578677b38a651d9b9265460e9e15"
+    },
+    {
+      "file": "src/plot_code/render_revision_figures.py",
+      "bytes": 28490,
+      "sha256": "b789a5683add21ae1c12864641059210a395efd8b5e4615105dfbe245fcc1dce"
+    },
+    {
+      "file": "src/plot_code/render_supplementary1.py",
+      "bytes": 8517,
+      "sha256": "57cb5027ff71a1e6fc6a54b67abe691eda40ec6d6dbec3144c7fcd0ba2539901"
+    },
+    {
+      "file": "src/plot_code/render_supplementary10.py",
+      "bytes": 9977,
+      "sha256": "77c621eec7639590c56326cfa925a52a55fde51d31f406488801a1e5cb9ca59d"
+    },
+    {
+      "file": "src/plot_code/render_supplementary2.py",
+      "bytes": 3876,
+      "sha256": "a7f5951169315e852ff2855c115d8fc6ca23d715a3a2bdedb41b58947f842c18"
+    },
+    {
+      "file": "src/plot_code/render_supplementary3.py",
+      "bytes": 7651,
+      "sha256": "b7f2c444424b507396a5150127f4f9579fb7266d325b46dcc2071950e206236a"
+    },
+    {
+      "file": "src/plot_code/render_supplementary8.py",
+      "bytes": 6017,
+      "sha256": "01bef385dc8302d9babcb00934bb81f28f03124bc90f418daa09bd685f4a80ec"
+    }
+  ]
+}
